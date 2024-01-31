@@ -1,0 +1,13 @@
+word vs keyword
+var let const
+hoisting
+types in js
+primitive and reference
+primitive
+reference = [] () {}
+conditionals = if else  else-if
+if(true)
+ if (false)
+loop - for while
+
+
